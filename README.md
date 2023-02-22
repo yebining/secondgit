@@ -27,4 +27,4 @@
     
 `print('Hello World!')`
 
-[네이버](https://www.naver.com/, "naver")
+[네이버](https://www.naver.com/ , "naver")
